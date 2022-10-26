@@ -1,2 +1,4 @@
 sql-data/
 .idea/
+app/export/export.json
+app/export/export.xls
